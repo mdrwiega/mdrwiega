@@ -1,5 +1,5 @@
 [![mdrwiega's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdrwiega&count_private=true&show_icons=true&hide=issues,contribs&theme=dark)](https://github.com/mdrwiega)
-[![mdrwiega's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrwiega&layout=compact&theme=dark)](https://github.com/mdrwiega)
+[![mdrwiega's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrwiega&layout=compact&theme=dark&langs_count=8)](https://github.com/mdrwiega)
 
 
 <!--
